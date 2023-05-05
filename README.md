@@ -5,7 +5,7 @@ smansaancol adalah library sederhana yang di gunakan untuk scraping web [elearni
 *Author :* [**Rahmat adha**](https://facebook.com/Anjay.pro098)\
 *Library :* [**smansaancol**](https://github.com/MR-X-Junior/smansaancol)\
 *License:* [**MIT License**](https://github.com/MR-X-junior/smansaancol/blob/main/LICENSE)\
-*Release:* **23**/04/20**23**\
+*Release:* **05**/05/20**23**\
 *Version :* **0.0.1**
 
 **NOTE: LIBRARY INI BUKAN LIBRARY RESMI DARI SMA N1 MUARA ANCALONG**
