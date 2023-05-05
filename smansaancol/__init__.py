@@ -14,6 +14,8 @@ except (ImportError):
   from urlparse import urlparse
   from urlparse import parse_qs
 
+from .__version__ import (__title__,__description__,__url__,__version__,__author__,__author_email__,__license__,__copyright__)
+
 class Elearning:
 
   def __init__(self, username, password):
